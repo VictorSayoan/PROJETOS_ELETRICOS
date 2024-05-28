@@ -1,2 +1,2 @@
 # PROJETOS_ELETRICOS
- Neste repositório estão todos os meus projeto elétricos já feitos até o momento. 
+ Todos os meus projetos elétricos estão armazenados neste repositório.
